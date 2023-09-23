@@ -1,6 +1,6 @@
 ### Student CRUD App
 
-This project built using spring data jpa and mysql. This is demonstrations of Spring Boot Data Jpa with MySQL.
+This project built using spring data jpa and mysql. This is demonstration of Spring Boot Data Jpa with MySQL.
 
 Following functionalities this project includes
 
